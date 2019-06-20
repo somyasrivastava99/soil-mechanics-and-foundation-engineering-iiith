@@ -1,0 +1,32 @@
+
+h3{
+	text-align: center;
+	text-decoration: underline;
+	color:grey;
+}
+
+
+.images{
+	display: none;
+}
+
+.button {
+  background-color: black;
+  border: 5px solid grey;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  float: right;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+    border-radius: 10px 10px 10px 10px;
+}
+
+button:hover {
+  background-color: grey;
+  border: 5px solid black;
+  color: white;
+}
