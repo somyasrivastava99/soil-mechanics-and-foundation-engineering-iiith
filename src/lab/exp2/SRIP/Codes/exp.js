@@ -9,7 +9,7 @@
 
        function picture(){ 
         document.getElementById("playb").style.display = "block";
-        
+        document.getElementById("foo").style.display = "none";
 
         var pic = "second.png"
         document.getElementById('first').src = pic.replace();
@@ -216,14 +216,14 @@
     function startSlideshow()
     {
 
-        document.getElementById("foo").style.display = "none";
+        
 
         if(smode=="play")
         {
             document.getElementById("pauseb").style.display = "block";
             document.getElementById("stopb").style.display = "block";
             document.getElementById("resumeb").style.display = "none";
-            document.getElementById("playb").style.display = "block";
+            document.getElementById("playb").style.display = "none";
             
             document.getElementById("playb").disabled="disabled";
             document.getElementById("pauseb").disabled="";
@@ -237,6 +237,7 @@
         {
 
           document.getElementById("resumeb").style.display = "block";
+          document.getElementById("pauseb").style.display = "none";
           document.getElementById("playb").style.display = "none";
 
           document.getElementById("pauseb").disabled="";
@@ -247,6 +248,7 @@
         else if(smode=="stop")
         {
             document.getElementById("resumeb").style.display = "none";
+            document.getElementById("pauseb").style.display = "none";
             document.getElementById("playb").style.display = "block";
             
             document.getElementById("playb").disabled="";
