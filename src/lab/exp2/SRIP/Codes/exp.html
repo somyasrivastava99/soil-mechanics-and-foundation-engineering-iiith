@@ -1,25 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
+	 
   <title>Unit Weight Experiment</title>
 
-<link rel="stylesheet" href="exp.css">
-  <script type="text/javascript">
-
-        function start(){
-        document.getElementById("foo").style.display = "none";
-      }
-
-
-       function picture(){ 
-        document.getElementById("foo").style.display = "block";
-
-        var pic = "second.png"
-        document.getElementById('first').src = pic.replace();
-    }
-
-    </script>
-
+  <link rel="stylesheet" href="exp.css">
+  
+  <script type="text/javascript" src="exp.js"></script>
+ 
 
 </head>
 <body onload="start()">
@@ -27,14 +15,29 @@
 <div id="parent">
   <div id="left">
     
-<h2>Unit Weight</h2>
-<h3>Core Cutter Method</h3>
+      <h2>Unit Weight</h2>
+      <h3>Core Cutter Method</h3>
 
   </div>
+
   <div id="right">
-    <img src="first.png" id="first" width="60%" height="75%"> 
-<a href="slideshow.html"><button type="button" class="button" id="foo"> Play<button></a>
-<button type="button" class="button" onclick="picture()" >Start</button> 
+
+    <img src="first.png" id="first" width="60%" height="75%">
+  
+    
+    <button type="button" class="button" id="stopb" onclick="mode('stop');startSlideshow();"> Stop <button>
+
+    <button type="button" class="button" id="pauseb" onclick="mode('pause');startSlideshow();"> Pause <button>
+
+    <button type="button" class="button" id="playb" onclick="mode('play');startSlideshow();"> Play <button>
+
+    <button type="button" class="button" id="resumeb" onclick="mode('play');startSlideshow();"> Resume <button>
+
+     <button type="button" class="button" onclick="picture()" id="foo" >Start </button>
+
+    </div>
+
+    
 
   </div>
 
