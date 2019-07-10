@@ -1,5 +1,5 @@
 # Experiment Code Documentation
----
+
 ### Introduction
 This document captures the experiment implementation details.
 
@@ -7,20 +7,30 @@ This document captures the experiment implementation details.
 ***
 
  **File Name:** *exp.html*
+ 
  **File Description:** *Experiment Page*
+ 
  **Function:** *Experiment page to display the simulated animation.*
+ 
  **Function Description:** *None*
 ***
 
 **File Name:** *exp.css*
+
 **File Description:** *Cascading Style Sheet*
+
 **Function:** *It controls the layout of exp.html file.*
+
 **Function Description:** *Rectangular box, text, and buttons are styled.* 
 ***
 
+
 **File Name**: *exp.js*
+
 **File Description:** *JavaScript file* 
+
 **Function:** *Contains the codes for everything being rendered/shown on the simulation page.*
+
 **Function Description:**  
 
 1)  *`start()` function is called when exp.html is loaded in the browser. This is used to hide the Play, Pause, Resume and Stop buttons.*

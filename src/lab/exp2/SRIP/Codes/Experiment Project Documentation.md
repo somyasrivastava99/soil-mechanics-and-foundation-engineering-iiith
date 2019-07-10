@@ -4,7 +4,9 @@ This  document captures the technical details related to the experiment developm
 
 ## Project 
 **Domain Name :** Civil Engineering
+
 **Lab Name :**  Soil Mechanics Lab
+
 **Experiment Name :** Unit Weight Experiment
 
 The particle density of a soil measures the mass in a given volume of particles. Particle density focuses on just the soil particles themselves and not the volume they occupy in the soil. Bulk density includes both the volume of the solid (mineral and organic) portion of the soil and the spaces where air and water are found.
@@ -41,9 +43,9 @@ None
 ## Documents
 | S.NO 	|                            Link to Document                            	|                                      Role                                     	|
 |:----:	|:----------------------------------------------------------------------:	|:-----------------------------------------------------------------------------:	|
-|   1  	|    	|         This document captures the instructions to run the simulations        	|
-|   2  	|  	| This document captures the functional test cases of the experiment simulation 	|
-|   3  	|  	|              This document captures the  details related to code              	|
+|   1  	| [Procedure](https://github.com/somyasrivastava99/soil-mechanics-and-foundation-engineering-iiith/blob/srip2019/src/lab/exp2/SRIP/Codes/Experiment%20Procedure%20Documentation.md)   	|         This document captures the instructions to run the simulations        	|
+|   2  	|  [Test Cases](https://github.com/somyasrivastava99/soil-mechanics-and-foundation-engineering-iiith/blob/srip2019/src/lab/exp2/SRIP/Codes/Experiment%20Test%20Cases%20Documentation.md)	| This document captures the functional test cases of the experiment simulation 	|
+|   3  	| [Code Documentation](https://github.com/somyasrivastava99/soil-mechanics-and-foundation-engineering-iiith/blob/srip2019/src/lab/exp2/SRIP/Codes/Experiment%20Code%20Documentation.md)  	|              This document captures the  details related to code              	|
 
 ## Process Followed to convert the experiment
 
