@@ -12,4 +12,4 @@ To run the experiment, simply run the `exp.html` file by clicking on it and the 
 *   Click on the Play button to start the simulation.
 *   Click on the Pause button to pause the simulation.
 *   Click on the Resume button to resume the simulation.
-*   Click on the Stop button to reset the simulation.
+*   Click on the Stop button to reset the simulation. 
