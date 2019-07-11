@@ -257,13 +257,13 @@
 
             if (i==imgsrc.length)
             {
-            	document.getElementById("first").src=imgsrc[179];   
-            	i=0;
+				document.getElementById("first").src=imgsrc[179];   
+				i=0;
             }
             else
             {
-                document.getElementById("first").src=imgsrc[0];
-                i=0;
+				document.getElementById("first").src=imgsrc[0];
+				i=0;
             }
         }
 
