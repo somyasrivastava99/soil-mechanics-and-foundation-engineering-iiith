@@ -1,18 +1,18 @@
-	 function start(){
+	function start(){
         document.getElementById("playb").style.display = "none";
         document.getElementById("pauseb").style.display = "none";
         document.getElementById("resumeb").style.display = "none";
         document.getElementById("stopb").style.display = "none";
 
-      }
+    }
 
 
-       function picture(){ 
+    function picture(){ 
         document.getElementById("playb").style.display = "block";
         document.getElementById("foo").style.display = "none";
 
-        var pic = "second.png"
-        document.getElementById('first').src = pic.replace();
+        var pic = "second.png";
+        document.getElementById("first").src = pic.replace();
     }
 
 
@@ -218,7 +218,7 @@
 
         
 
-        if(smode=="play")
+        if(smode==="play")
         {
             document.getElementById("pauseb").style.display = "block";
             document.getElementById("stopb").style.display = "block";
@@ -233,7 +233,7 @@
             i++;
             setTimeout("startSlideshow()",90);
         }
-        else if (smode=="pause")
+        else if (smode==="pause")
         {
 
           document.getElementById("resumeb").style.display = "block";
@@ -245,7 +245,7 @@
           document.getElementById("stopb").disabled="";
 
         }
-        else if(smode=="stop")
+        else if(smode==="stop")
         {
             document.getElementById("resumeb").style.display = "none";
             document.getElementById("pauseb").style.display = "none";
@@ -257,8 +257,8 @@
 
             if (i==imgsrc.length)
             {
-             document.getElementById("first").src=imgsrc[179];   
-             i=0;
+            	document.getElementById("first").src=imgsrc[179];   
+            	i=0;
             }
             else
             {
@@ -269,7 +269,7 @@
 
         if(i==imgsrc.length)
         {
-            smode = 'stop';
+            smode = "stop";
             
         }
     }
