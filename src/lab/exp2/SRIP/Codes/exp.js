@@ -248,6 +248,7 @@
         else if(smode==="stop")
         {
             document.getElementById("resumeb").style.display = "none";
+            document.getElementById("stopb").style.display = "none";
             document.getElementById("pauseb").style.display = "none";
             document.getElementById("playb").style.display = "block";
             
