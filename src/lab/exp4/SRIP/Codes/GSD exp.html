@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	 
+  <title>Grain Size Distribution Experiment</title>
+
+  <link rel="stylesheet" href="GSD exp.css">
+  
+  <script type="text/javascript" src="GSD exp.js"></script>
+ 
+
+</head>
+<body onload="start()">
+
+<div id="parent">
+  <div id="left">
+    
+      <h2>Grain Size Distribution</h2>
+      <ul>
+      	<li>Course</li>
+      	<li>Fine</li>
+      </ul>
+
+  </div>
+
+  <div id="right">
+  	<h2> Course</h2>
+    <img src="first.png" id="first" width="75%" height="85%">
+  
+    
+   	 <button type="button" class="button" id="stopb" onclick="mode('stop');startSlideshow();"> Stop </button>
+
+    <button type="button" class="button" id="startb" onclick="mode('play');startSlideshow();"> Start </button>
+
+    </div>
+
+  </div>
+
+</body>
+</html>
