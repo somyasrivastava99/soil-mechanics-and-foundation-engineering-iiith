@@ -48,15 +48,15 @@ None
 ## Documents
 | S.NO 	|                            Link to Document                            	|                                      Role                                     	|
 |:----:	|:----------------------------------------------------------------------:	|:-----------------------------------------------------------------------------:	|
-|   1  	| [Procedure](https://github.com/somyasrivastava99/soil-mechanics-and-foundation-engineering-iiith/blob/srip2019/src/lab/exp2/SRIP/Codes/Experiment%20Procedure%20Documentation.md)   	|         This document captures the instructions to run the simulations        	|
-|   2  	|  [Test Cases](https://github.com/somyasrivastava99/soil-mechanics-and-foundation-engineering-iiith/blob/srip2019/src/lab/exp2/SRIP/Codes/Experiment%20Test%20Cases%20Documentation.md)	| This document captures the functional test cases of the experiment simulation 	|
-|   3  	| [Code Documentation](https://github.com/somyasrivastava99/soil-mechanics-and-foundation-engineering-iiith/blob/srip2019/src/lab/exp2/SRIP/Codes/Experiment%20Code%20Documentation.md)  	|              This document captures the  details related to code              	|
+|   1  	| [Procedure](https://github.com/somyasrivastava99/soil-mechanics-and-foundation-engineering-iiith/blob/srip2019/src/lab/exp4/SRIP/Codes/Experiment%20Procedure%20Documentation.md)   	|         This document captures the instructions to run the simulations        	|
+|   2  	|  [Test Cases](https://github.com/somyasrivastava99/soil-mechanics-and-foundation-engineering-iiith/blob/srip2019/src/lab/exp4/SRIP/Codes/Experiment%20Test%20Cases%20Documentation.md)	| This document captures the functional test cases of the experiment simulation 	|
+|   3  	| [Code Documentation](https://github.com/somyasrivastava99/soil-mechanics-and-foundation-engineering-iiith/blob/srip2019/src/lab/exp4/SRIP/Codes/Experiment%20Code%20Documentation.md)  	|              This document captures the  details related to code              	|
 
 ## Process Followed to convert the experiment
 
-1)   Understand the assigned experiment Flash simulation.
+1)   Understanding the assigned experiment Flash simulation.
 2)   Understanding the experiment concept.
-3)   Re-implement the same in javascript.
+3)   Re-implemented the same in JavaScript.
 
 ## Value Added by our Project
 1)   It would be beneficial for engineering students.
