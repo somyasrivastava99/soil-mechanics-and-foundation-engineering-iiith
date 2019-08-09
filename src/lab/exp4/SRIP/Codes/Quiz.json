@@ -1,0 +1,258 @@
+{
+    "artciles": [
+        {
+            "quiztitle":"Quiz for Experiment",
+            "containers":"5"
+        },
+        {
+            "q": "  A soil sample may be well graded if:",
+            "option": [
+                "If it has most number of particles of same size",
+                "Excess of certain particles",
+                "Good representation of particles of all size"
+            ],
+            "answer": "Good representation of particles of all size",
+            "description": "A soil is said to be well graded when it has a good representation of particle of all size."
+        },
+        {
+            "q": "For coarse grained soil, the particle size D10 is sometimes called as",
+            "option": [
+                "Effective size and effective diameter",
+                "Uniform diameter",
+                "All of the mentioned"
+            ],
+            "answer": "Effective size and effective diameter",
+            "description": "The size D10 is sometimes called as the effective size or effective diameter."
+        },
+        {
+            "q": "The shape of particle size curve, which is represented by the coefficient of curvature (Cc) is given by",
+            "option": [
+                "Cc = (D30)2/D10×D40",
+                "Cc = (D40)2/D10×D30",
+                "Cc = (D30)2/D10×D60"
+            ],
+            "answer": "Cc=(D40)2/D10×D30",
+            "description": "The coefficient of curvature (Cc) is given by the equation Cc = (D40)2/D10×D30."
+        },
+        {
+            "q": "The curve situated at the right side of the particle size distribution curve is",
+            "option": [
+                "Coarse-grained soil",
+                "Fine-grained soil",
+                "None of the above"
+            ],
+            "answer": "Coarse-grained soil",
+            "description": "The right side the particle size distribution curve shows the coarse-grained while the left shows the relatively fine-grained soil."
+        },
+        {
+            "q": "The coefficient of uniformity (CV) is the ratio of",
+            "option": [
+                "D60 and D10",
+                "D10 and D30",
+                "D30 and D10"
+            ],
+            "answer": "D60 and D10",
+            "description": "The coefficient of uniformity CV, is defined as the ratio of D60 and D10 i.e.CV = D60/ D10."
+        },
+        {
+            "q": "What is the time of settlement of coarse particle of a soil sample, of diameter 0.5? Take γ=0.905D2 and height of water tank as 5 m.",
+            "option": [
+                "11.6 seconds",
+                "72.8 seconds",
+                "22.1 seconds"
+            ],
+            "answer": "22.1 seconds",
+            "description": "γ=0.905(0.5)2=0.2263 m/sec. Time of settlement, T=h/v =5/0.2263=22.1 seconds."
+        },
+        {
+            "q": "A curve with a flat portion, in particle size distribution curve represent",
+            "option": [
+                "Intermediate size particle are missing",
+                "Smaller size particle are present",
+                "Intermediate size particles are present"
+            ],
+            "answer": "Intermediate size particle are missing",
+            "description": "A curve with a flat portion represents oil in which intermediate size particle are missing."
+        },
+        {
+            "q": "The D10 represents a size, such that _________ of the particles are finer than this size.",
+            "option": [
+                "20%",
+                "60%",
+                "10%"
+            ],
+            "answer": "10%",
+            "description": "The D10 represents a size, in mm such that 10% of the particle is finer than D10 size."
+        },
+        {
+            "q": " The time of settlement of the finest particle of soil sample is 15hr20min49sec. calculate the height of the water tank. Take D=0.01 mm, γ=0.905D2.",
+            "option": [
+                "7",
+                "5",
+                "12"
+            ],
+            "answer": "5",
+            "description": "γ=0.905(0.01), γ=9.05×10-5, t = 15hr 20min 49sec =55429 sec, t=h/v, 55429=h/9.05×10-5 , h=55429×9.05×10-5, h = 5.000034 m."
+        },
+        {
+            "q": "The shape of the particle size curve is represented by",
+            "option": [
+                "Effective diameter",
+                "Effective size",
+                "Co-efficient of curvature"
+            ],
+            "answer": "Co-efficient of curvature",
+            "description": "Coefficient of the curvature Cc represent the shape of the particle size curve given by CC= (D40)2/D10×D30."
+        },
+        {
+            "q": "A particle-size distribution curve gives us an idea about",
+            "option": [
+                "Type of soil",
+                "Properties of soil",
+                "All of the mentioned"
+            ],
+            "answer": "Type of soil",
+            "description": "A particle-size curve shows both type and gradation of the soil."
+        },
+        {
+            "q": " In sedimentation analysis, the soil fraction should be of what micron size, so as to be kept in a liquid medium (water).",
+            "option": [
+                "75",
+                "83",
+                "57"
+            ],
+            "answer": "75",
+            "description": "According to Indian standards the soil fraction is set as 75 microns to be used in a liquid medium."
+        },
+        {
+            "q": "The sedimentation analysis is done with the help of",
+            "option": [
+                "Sieve",
+                "Hydrometer and Pipette",
+                "None of the above"
+            ],
+            "answer": "Hydrometer and Pipette",
+            "description": "Both the hydrometer and pipette method can be used for taking sedimentation analysis."
+        },
+        {
+            "q": "The time for a particle to settle, of diameter 0.06 through a height of 10 cm is",
+            "option": [
+                "25.8 s",
+                "42 m 59 s",
+                "42.8 s"
+            ],
+            "answer": "25.8 s",
+            "description": "Based on the time of settlement of particles of various diameters it is found that minimum time of 25.8 s is needed for a particle to settle of diameter 0.006 mm."
+        },
+        {
+            "q": "Which of the following assumptions is wrong, with respect to sedimentation analysis?",
+            "option": [
+                "The soil particles are spherical",
+                "Particle settle independent of other particles do not have any effect on its velocity of settlements",
+                "Soil particles has different specific gravity"
+            ],
+            "answer": "Soil particles has different specific gravity",
+            "description": "In sedimentation analysis, soil particle has average specific gravity."
+        },
+        {
+            "q": "The sedimentation analysis is based on _________ law.",
+            "option": [
+                "Stoke",
+                "Rankine’s",
+                "Cullman’s"
+            ],
+            "answer": "Stoke",
+            "description": "The sedimentation analysis is based on stokes law according to which the velocity at which the grains settles down depend on shape, size, weight of grain."
+        },
+        {
+            "q": "In the formula, f=105√(300 ɳ/(g-1)Vw), the factor ɳ depends on",
+            "option": [
+                "Pressure",
+                "Velocity",
+                "Temperature"
+            ],
+            "answer": "Temperature",
+            "description": "Since ɳ=viscosity of water/liquid, it can be affected by temperature."
+        },
+        {
+            "q": " The lower limit of particle size allowed in sedimentation analysis is",
+            "option": [
+                "0.0002 mm",
+                "0.04 mm",
+                "0.074 mm"
+            ],
+            "answer": "0.0002 mm",
+            "description": "The particle smaller than 0.0002 mm is affected by Brownian movement and stokes law remains no longer valid."
+        },
+        {
+            "q": "1 poise is equivalent to",
+            "option": [
+                "0.5 NS/m2",
+                "0.1 NS/ m2",
+                "0.8 NS/ m2"
+            ],
+            "answer": "0.1 NS/ m2",
+            "description": " As,1 poise =1/10 NS/ m2 so 1 poise =0.1 NS/ m2."
+        },
+        {
+            "q": "The unit weight of water in v=(2/g)r2(Vs-Vw/ɳ) is taken as",
+            "option": [
+                "9.81 kn/m2",
+                "98.1 n/m2",
+                "0.981 kn/m2"
+            ],
+            "answer": "9.81 kn/m2",
+            "description": "The constant value of unit weight of water/liquid is taken as γw=9.81 kn/m2."
+        },
+        {
+            "q": "Viscosity of water/liquid (ɳ) is expressed in",
+            "option": [
+                "Ns/m",
+                "KN-s/m3",
+                "KN-s/m2"
+            ],
+            "answer": "KN-s/m2",
+            "description": "The viscosity of distilled water in sedimentation analysis is taken as 0.00855 KN-s/m2."
+        },
+        {
+            "q": "In consistency of soil, the limits are expressed in terms of",
+            "option": [
+                "Area",
+                "Per cent water content",
+                "Volume"
+            ],
+            "answer": "Per cent water content",
+            "description": "According to Atterberg, the consistency limits are expressed as percent water content."
+        },
+        {
+            "q": "The ratio of liquid limit, minus the natural water content to the plasticity index of the soil is ",
+            "option": [
+                "Plasticity index",
+                "Consistency index",
+                "None of the above"
+            ],
+            "answer": "Consistency index",
+            "description": "consistency index or relative consistency is defined as the ratio of liquid limit, minus the natural water content to the plasticity index of the soil."
+        },
+        {
+            "q": "The property of a soil which allows it to be deformed rapidly, without rupture is",
+            "option": [
+                "Elasticity",
+                "Tenacity",
+                "Plasticity"
+            ],
+            "answer": "Plasticity",
+            "description": "Plasticity is the property of a soil which allows it to be deformed rapidly, without rupture, without elastic rebound and without volume change."
+        },
+        {
+            "q": "Clay does not become plastic, when mixed with",
+            "option": [
+                "Kerosene",
+                "Soap solution",
+                "Oil"
+            ],
+            "answer": "Kerosene",
+            "description": "According to Goldschmidt theory, the clay does not become plastic when mixed with liquids of non-polarizing agents like kerosene."
+        }
+    ]
+}
